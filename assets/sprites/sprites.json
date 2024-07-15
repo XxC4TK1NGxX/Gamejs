@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "sprites.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1004,
+				"h": 1137
+			},
+			"scale": 1,
+			"frames": [
+				{
+				    "filename": "tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 800,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 800,
+						"h": 600
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 800,
+						"h": 600
+					}
+				},
+				{
+					"filename": "emptytile.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 200
+					},
+					"frame": {
+						"x": 803,
+						"y": 1,
+						"w": 200,
+						"h": 200
+					}
+				},
+				{
+					"filename": "restart.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 100
+					},
+					"frame": {
+						"x": 803,
+						"y": 203,
+						"w": 200,
+						"h": 100
+					}
+				},
+				{
+					"filename": "fullscreen.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"frame": {
+						"x": 803,
+						"y": 305,
+						"w": 100,
+						"h": 100
+					}
+				},
+				{
+					"filename": "logo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 800,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 800,
+						"h": 252
+					},
+					"frame": {
+						"x": 1,
+						"y": 603,
+						"w": 800,
+						"h": 252
+					}
+				},
+				{
+					"filename": "scorepanel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 640,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 640,
+						"h": 100
+					},
+					"frame": {
+						"x": 1,
+						"y": 857,
+						"w": 640,
+						"h": 100
+					}
+				},
+				{
+					"filename": "scorelabels.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 640,
+						"h": 35
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 640,
+						"h": 35
+					},
+					"frame": {
+						"x": 1,
+						"y": 959,
+						"w": 640,
+						"h": 35
+					}
+				},
+				{
+					"filename": "gametitle.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 140
+					},
+					"frame": {
+						"x": 1,
+						"y": 996,
+						"w": 400,
+						"h": 140
+					}
+				},
+				{
+					"filename": "howtoplay.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 140
+					},
+					"frame": {
+						"x": 403,
+						"y": 996,
+						"w": 400,
+						"h": 140
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f83f19d9b77769117c6069b13dcab9c9:fb8be6353179910b127affeff5992c83:1eabdf11f75e3a4fe3147baf7b5be24b$"
+	}
+}
